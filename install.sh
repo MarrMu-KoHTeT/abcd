@@ -3,8 +3,8 @@
 
 clear
 echo 
-echo -e "love u all
-echo"":,;;~~___!!_;~,`    .`-,;~___!!!!_;,:';_!!!!!!!_;~'-.--`---``.-',':,,,-`-.``----:;~_______~;;~_____!!!!!!/=1ivr!_____!!!!__;~;;~~~~;;;;;;~____________!!!!!!!!___!!!____~;~;~~~;;;~~~~__!+ifIb0#gggggggggggggggggggggggggggggggggggggmm#mm#m0000qqEIIulzi1i+++=/
+echo"""
+:,;;~~___!!_;~,`    .`-,;~___!!!!_;,:';_!!!!!!!_;~'-.--`---``.-',':,,,-`-.``----:;~_______~;;~_____!!!!!!/=1ivr!_____!!!!__;~;;~~~~;;;;;;~____________!!!!!!!!___!!!____~;~;~~~;;;~~~~__!+ifIb0#gggggggggggggggggggggggggggggggggggggmm#mm#m0000qqEIIulzi1i+++=/
 ',,;;;___!!__;:`     ..,,;____!!!~:::',_!!!!!!!_;''.-`---`.`-.-'::'',.----.`-``-,';;_______~~;;_______!!!+=vvv/!!__!!!!!!__;;':~;;____;~;;~~_____;;___!!!!!!_____!!!!___~;~;~~~;;~;~__!*icFh0mgggggggggggggggggggggggggggggggggggg#m##m##0000bhhIInjc|xi*\\r/+\r
 ,'~~~~___!!!_~'.      -`'~____!!_;:,:,:_!!!!!!_;;::-.---.``--.`-`-.-.`--.`-. `...:'~;;;____;~;;~_______!!\riv1\!!__!!!!!__;;::;~;__!!__;~~~;____~~~~___!!!!!_____!!!!___~;;;~;;~~~__!!*vfed0#ggggggggggggggggggggggggggggggg###g#m#m#mm000qbEkIjulziv\/+r+r=+\=\
 ~~;~~~____!!_~:.-     `-:;_____!~''':'_!*!!!!_;~',-`..`---`..`-`-..``````-.   ``-,:;;~;;~;~;~;~;_______!!=*ivi*!____!!!__;~,:',;__!r+!__;~~~;;~~;~;~____!!!____________~;;;;~~;;;_!!+rzued0#gggggggggggggggggggggggggggggggmmm##mmm#000bdpwFfjzvx1x+*r=r==+=*ri1
@@ -209,7 +209,8 @@ FT~1;!/rg1_vc!'.`j--.#e;!01Fg_lz~+F!oT:_Iz|mf=+Ioi|gcgIii@gb!ggg#og=jv|_~p@gbbmg
 E|_l0lu!____q+ `vg.`-\g:!~0n|#o;pq!gst~_1ktF=1ig/_na#gog;gqzd@@g0s!;;g|_ggg!!0#k0fnxaf+;1g'F0!_/*jbz;cx+tglgd!_1.'gl!'gdg@!i!!!@dogg0Eno;rIv@@@@@@@@@@@@@@@@@@@@@@@@@ggggggggggggg@@gbjr!_;re01o0it!--`                                                         
 ~~~.!_fq|+t_mbjnT!dmgd_|fegxag_xyqggFt_v*cFqqx!re0yEmg_Ixgg!wgmuvga/xi!!@gg*jxFgl!_!=0;q1ku#g_r~v__y!/!pdfE!+;~:g1!*!yg#mdgv0u0#ymF@@mau~!!n@@@@@@@@@@@@@@@@@@@@@@@@@@g@ggggggggg@@@gEFc!_!p1egpo!:;.`                                                          
 """
-echo e- "\e[36m\ Do u know MarMu | lolcat
+echo
+echo e- "\e[1m\ Do u know MarMu | lolcat
 echo"
 apt update
 apt upgrade -y
