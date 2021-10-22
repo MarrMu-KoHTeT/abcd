@@ -209,7 +209,7 @@ FT~1;!/rg1_vc!'.`j--.#e;!01Fg_lz~+F!oT:_Iz|mf=+Ioi|gcgIii@gb!ggg#og=jv|_~p@gbbmg
 E|_l0lu!____q+ `vg.`-\g:!~0n|#o;pq!gst~_1ktF=1ig/_na#gog;gqzd@@g0s!;;g|_ggg!!0#k0fnxaf+;1g'F0!_/*jbz;cx+tglgd!_1.'gl!'gdg@!i!!!@dogg0Eno;rIv@@@@@@@@@@@@@@@@@@@@@@@@@ggggggggggggg@@gbjr!_;re01o0it!--`                                                         
 ~~~.!_fq|+t_mbjnT!dmgd_|fegxag_xyqggFt_v*cFqqx!re0yEmg_Ixgg!wgmuvga/xi!!@gg*jxFgl!_!=0;q1ku#g_r~v__y!/!pdfE!+;~:g1!*!yg#mdgv0u0#ymF@@mau~!!n@@@@@@@@@@@@@@@@@@@@@@@@@@g@ggggggggg@@@gEFc!_!p1egpo!:;.`                                                          
 """
-echo e- "\n\[36m\ Do u know MarMu | lolcat
+echo e- "\e[36m\ Do u know MarMu | lolcat
 echo"
 apt update
 apt upgrade -y
