@@ -11,7 +11,7 @@ echo -e """\e[1m\e[36m
           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═╝ ╚═════╝                
 """
 echo
-filet -f small Do u know MarMu | lolcat
+echo -e \e[1m\e[31m\ small Do u know MarMu
 echo"
 apt update
 apt upgrade -y
