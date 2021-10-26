@@ -2,7 +2,7 @@
 
 clear
 echo 
-echo -e """                                                                  
+echo -e """\e[1m\e[36m                                                                  
           ███╗   ███╗ █████╗ ██████╗ ███╗    ███╗██╗   ██╗               
           ████╗ ████║██╔══██╗██╔══██╗████╗ ████║██║   ██║              
           ██╔████╔██║███████║██████╔╝██╔████╔██║██║   ██║              
@@ -11,7 +11,7 @@ echo -e """
           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═╝ ╚═════╝                
 """
 echo
-echo e- "\e[34m Do u know MarMu | lolcat
+echo -e "\e[34m Do u know MarMu | lolcat
 echo"
 apt update
 apt upgrade -y
