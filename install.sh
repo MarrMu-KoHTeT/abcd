@@ -220,8 +220,19 @@ apt install toilet -y
 apt install cowsay -y
 apt install nano -y
 apt install ruby -y
+apt install cmatrix
 gem install lolcat
 figlet -f big Good Job!!! | lolcat
+sleep 3
+echo
+cmatrix
+r
+u
+ok
+like
+b
+b
+q
 echo
 echo -e "\e[1m Now Run 👉 my-banner.sh (OR) marmu.sh..!!!"
 echo
