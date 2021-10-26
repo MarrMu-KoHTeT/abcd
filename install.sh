@@ -11,7 +11,7 @@ echo"""
           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═╝ ╚═════╝                
 """
 echo
-echo e- "\e[1m\ Do u know MarMu | lolcat
+echo e- "\e[1m\[32m Do u know MarMu | lolcat
 echo"
 apt update
 apt upgrade -y
@@ -29,10 +29,7 @@ echo
 cmatrix
 echo
 sleep 0.2
-echo
-R
-echo"
-q
+
 echo
 echo -e "\e[36m Now Run 👉 my-banner.sh (OR) marmu.sh..!!!"
 echo
