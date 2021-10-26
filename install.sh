@@ -11,7 +11,7 @@ echo -e """\e[1m\e[36m
           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═╝ ╚═════╝                
 """
 echo
-echo -e \e[1m\e[31m\ small Do u know MarMu
+echo -e "\e[1m\e[31m\ small Do u know MarMu | lolcat
 echo"
 apt update
 apt upgrade -y
@@ -35,5 +35,4 @@ echo -e "\e[36m Now Run 👉 my-banner.sh (OR) marmu.sh..!!!"
 echo
 echo -e "\e[1m\e[32m Modified by :\e[33m MarMu (Myanmar)"
 sleep 1.0
-q
 exit
