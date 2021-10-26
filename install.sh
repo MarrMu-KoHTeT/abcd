@@ -11,7 +11,7 @@ echo -e """\e[1m\e[36m
           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═╝ ╚═════╝                
 """
 echo
-echo -e "\e[36m Do u know MarMu"
+echo -e "\e[34m Do u know MarMu"
 echo"
 apt update
 apt upgrade -y
@@ -29,10 +29,10 @@ echo
 cmatrix
 echo
 sleep 0.2
-
 echo
 echo -e "\e[36m Now Run 👉 my-banner.sh (OR) marmu.sh..!!!"
-echo
 echo -e "\e[1m\e[32m Modified by :\e[33m MarMu (Myanmar)"
+echo
 sleep 1.0
 exit
+
